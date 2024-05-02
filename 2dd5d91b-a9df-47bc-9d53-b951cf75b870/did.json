@@ -1,0 +1,26 @@
+{
+        "@context": [
+            "https://www.w3.org/ns/did/v1"
+        ],
+        "id": "did:web:hardik12-amnex.github.io:VCDID:2dd5d91b-a9df-47bc-9d53-b951cf75b870",
+        "alsoKnownAs": [
+            "DepartmentofAgricultureMH",
+            "krishi.maharashtra.gov.in"
+        ],
+        "service": [],
+        "verificationMethod": [
+            {
+                "id": "did:web:hardik12-amnex.github.io:VCDID:2dd5d91b-a9df-47bc-9d53-b951cf75b870#key-0",
+                "type": "Ed25519VerificationKey2020",
+                "@context": "https://w3id.org/security/suites/ed25519-2020/v1",
+                "controller": "did:web:hardik12-amnex.github.io:VCDID:2dd5d91b-a9df-47bc-9d53-b951cf75b870",
+                "publicKeyMultibase": "z6Mkst4o4c9sjrB7Ww3tuV3V5qAejy2CZTrQJYjFKA1GQn19"
+            }
+        ],
+        "authentication": [
+            "did:web:hardik12-amnex.github.io:VCDID:2dd5d91b-a9df-47bc-9d53-b951cf75b870#key-0"
+        ],
+        "assertionMethod": [
+            "did:web:hardik12-amnex.github.io:VCDID:2dd5d91b-a9df-47bc-9d53-b951cf75b870#key-0"
+        ]
+    }
